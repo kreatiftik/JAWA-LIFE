@@ -1,0 +1,6 @@
+{
+  "name": "JAWA LIFE – Petualangan ing Tanah Jawa",
+  "description": "Game 3D Open World bernuansa kehidupan masyarakat Jawa Timur dengan eksplorasi desa, kota, pegunungan, pesisir, candi, kendaraan khas Indonesia, serta dialog bahasa Jawa Ngoko dan Krama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
